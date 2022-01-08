@@ -1,0 +1,121 @@
+{
+  "main": {
+    "name":"Osman Yaseen",
+    "description":"New Grad (May 2022) seeking a Software Engineering role",
+    "image":"ca-flag2.jpg",
+    "bio": "Software engineering master's student with bachelor's in chemical engineering. EIT with over three years of professional experience.",
+    "contactmessage":"Please get in touch with me using my contact information below.",
+    "email": "osmanyaseen@live.com",
+    "phone": "403-389-5345",
+    "github":"https://github.com/osmanyaseen/",
+    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "address":{
+      "city":"Calgary",
+      "province":"Alberta"
+    },
+    "website": "http://linkedin.com/in/osmanyaseen",
+    "resumedownload":"https://drive.google.com/file/d/1eVLxZOpNXdhacd0W6lGTz3BLLVxHYoQQ/view?usp=sharing",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"http://linkedin.com/in/osmanyaseen",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/osmanyaseen/",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"University of Calgary",
+        "degree":"Master's of Engineering in Software Engineering",
+        "graduated":"April 2022",
+        "description":" Relevant Courses Completed: Software Design & Architecture, Databases, Machine Learning, Data Analytics, System Analysis"
+      },
+      {
+        "school":"University of Calgary",
+        "degree":"Bachelor's of Science in Chemical Engineering",
+        "graduated":"April 2017",
+        "description":"12-month internship with Imperial Oil/ExxonMobil Companies of Canada"
+      }
+    ],
+    "work":[
+      {
+        "company":"University of Calgary",
+        "title":"Graduate Student Researcher",
+        "years":"September 2020 - April 2021",
+        "description":"Developed whitepaper regarding techno-economics of hydrogen fuel for residential and commercial heating."
+      },
+      {
+        "company":"Member of Legislative Assembly of Alberta, Candidate",
+        "title":"Campaign Manager",
+        "years":"September 2018 - April 2019",
+        "description":"Directed day-to-day campaign operations."
+      },
+      {
+        "company":"Global Resource Design, Client: Obsidian Energy",
+        "title":"Process/Project Engineer",
+        "years":"May 2017 - September 2018",
+        "description":"Coordinated 10+ stakeholders including operations, construction, regulatory, and engineering. Produced weekly progress reports and organized project plans for wellpads consisting of 8+ wellheads and 20+ emulsion tanks"
+      }
+
+    ],
+    "skills":[
+      {
+        "name":"Java",
+        "level":"80%"
+      },
+      {
+        "name":"Python",
+        "level":"80%"
+      },
+      {
+        "name":"C++",
+        "level":"80%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"SQL",
+        "level":"80%"
+      },
+      {
+        "name":"Git",
+        "level":"75%"
+      },
+      {
+        "name":"AWS",
+        "level":"50%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Movie Theatre App",
+        "category":"Purchase and Cancel Movie Tickets",
+        "image":"MovieTicket.jpg",
+        "url":"http://github.com/osmanyaseen/ENSF-614_Project"
+      },
+      {
+        "title":"Humour Detection",
+        "category":"Extend Basline Humour Detection Model",
+        "image":"laugh.jpg",
+        "url":"https://github.com/osmanyaseen/ENSF-612_Project"
+      },
+      {
+        "title":"Water Potability - ML",
+        "category":"Run ML Models on Water Potability Dataset",
+        "image":"water.jpg",
+        "url":"https://github.com/osmanyaseen/ENSF-611_Project"
+      }
+    ]
+  }
+}
